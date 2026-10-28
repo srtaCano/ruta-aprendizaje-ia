@@ -27,7 +27,6 @@ Cada notebook se puede abrir en Google Colab sin instalar nada. Para correrlos l
 ```bash
 git clone https://github.com/srtaCano/ruta-aprendizaje-ia.git
 cd ruta-aprendizaje-ia
-pip install -r requirements.txt
 ```
 
 Las instrucciones para descargar los datos de cada proyecto están en su propia carpeta.
